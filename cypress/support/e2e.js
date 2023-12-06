@@ -1,0 +1,1 @@
+C:\learn\cypress-swagger\cypress\support\e2e.js
